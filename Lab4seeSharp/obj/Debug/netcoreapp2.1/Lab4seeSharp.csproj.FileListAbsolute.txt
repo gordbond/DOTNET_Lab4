@@ -1,0 +1,12 @@
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4seeSharp\bin\Debug\netcoreapp2.1\Lab4seeSharp.deps.json
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4seeSharp\bin\Debug\netcoreapp2.1\Lab4seeSharp.runtimeconfig.json
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4seeSharp\bin\Debug\netcoreapp2.1\Lab4seeSharp.runtimeconfig.dev.json
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4seeSharp\bin\Debug\netcoreapp2.1\Lab4seeSharp.dll
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4seeSharp\bin\Debug\netcoreapp2.1\Lab4seeSharp.pdb
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4seeSharp\obj\Debug\netcoreapp2.1\Lab4seeSharp.csprojAssemblyReference.cache
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4seeSharp\obj\Debug\netcoreapp2.1\Lab4seeSharp.csproj.CoreCompileInputs.cache
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4seeSharp\obj\Debug\netcoreapp2.1\Lab4seeSharp.AssemblyInfoInputs.cache
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4seeSharp\obj\Debug\netcoreapp2.1\Lab4seeSharp.AssemblyInfo.cs
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4seeSharp\obj\Debug\netcoreapp2.1\Lab4seeSharp.dll
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4seeSharp\obj\Debug\netcoreapp2.1\Lab4seeSharp.pdb
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4seeSharp\bin\Debug\netcoreapp2.1\employees.txt

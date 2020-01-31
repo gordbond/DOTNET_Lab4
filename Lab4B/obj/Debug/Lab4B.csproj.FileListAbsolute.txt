@@ -1,0 +1,10 @@
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4B\bin\Debug\Lab4B.exe.config
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4B\bin\Debug\Lab4B.exe
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4B\bin\Debug\Lab4B.pdb
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4B\obj\Debug\Lab4B.csprojAssemblyReference.cache
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4B\obj\Debug\Lab4B.Properties.Resources.resources
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4B\obj\Debug\Lab4B.csproj.GenerateResource.cache
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4B\obj\Debug\Lab4B.csproj.CoreCompileInputs.cache
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4B\obj\Debug\Lab4B.exe
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4B\obj\Debug\Lab4B.pdb
+C:\Users\gordbond\source\repos\Lab4seeSharp\Lab4B\obj\Debug\Lab4B.HtmlBalanceCheck.resources
